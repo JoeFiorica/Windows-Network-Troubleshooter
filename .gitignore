@@ -1,0 +1,4 @@
+/runs/
+*.tmp
+# Local-only samples; never include in commits or distributions.
+.sample-data/
